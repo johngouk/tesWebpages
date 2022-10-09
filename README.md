@@ -1,2 +1,2 @@
-# tesWebpages
-tes the GitHub.io webpages thing
+# testWebpages
+test the GitHub.io webpages thing
